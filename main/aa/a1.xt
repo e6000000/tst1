@@ -17,4 +17,8 @@ IF NOT DEFINED LATEST_TAG (
 
 
 ver 101 in en
+ ver 103 with timeout /t 66
 
+versionen
+
+gemini  gpt4  claude35heiku  deepSeekV3   
