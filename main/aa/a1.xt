@@ -1,5 +1,8 @@
 1
-tag 1.0.0
+tag 1.0.0  
+ gemini  gpt4  claude35heiku  deepSeekV3  
+
+ 
 + hat echt relesase erstellt
 + mal sehn mit ver wo
  55555 von server
@@ -19,6 +22,15 @@ IF NOT DEFINED LATEST_TAG (
 ver 101 in en
  ver 103 with timeout /t 66
 
-versionen
 
-gemini  gpt4  claude35heiku  deepSeekV3   
+ECHO.
+ECHO.
+echo  your Release: tag name must well-formed, published releases must have a valid tag.
+ECHO.
+ECHO.
+ECHO.
+ECHO Done! New release %NEW_TAG% has been created.
+
+timeout /t   66
+
+
