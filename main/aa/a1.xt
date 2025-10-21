@@ -18,16 +18,9 @@ IF NOT DEFINED LATEST_TAG (
     SET "LATEST_TAG=v1.0.-1"
 )
 
-
-ver 101 in en
- ver 103 with timeout /t 66
-
-
 ECHO.
 ECHO.
 echo  your Release: tag name must well-formed, published releases must have a valid tag.
-ECHO.
-ECHO.
 ECHO.
 ECHO Done! New release %NEW_TAG% has been created.
 
