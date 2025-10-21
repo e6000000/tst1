@@ -26,4 +26,5 @@ ECHO Done! New release %NEW_TAG% has been created.
 
 timeout /t   66
 
-
+  create release from tag
+  
