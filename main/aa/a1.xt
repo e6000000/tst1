@@ -1,2 +1,4 @@
 1
-111
+@ECHO OFF
+TITLE Automatic Git Releaser for prj1 (tst1)
+
