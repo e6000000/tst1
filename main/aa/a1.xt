@@ -2,3 +2,4 @@
 @ECHO OFF
 TITLE Automatic Git Releaser for prj1 (tst1)
 
+push 1 0 29
